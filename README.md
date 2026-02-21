@@ -1,7 +1,7 @@
 # Bike-Sales-Analysis
 
 ## Overview
-This Excel dashboard analyzes customer demographics and buying behavior to understand factors influencing bike purchases. It provides interactive insights using Pivot Tables, Charts and Slicers.
+This Interactive dashboard analyzes customer demographics and buying behavior to understand factors influencing bike purchases. It provides interactive insights using Pivot Tables, Charts and Slicers.
 
 ## Dataset
 The data includes customer information such as:
